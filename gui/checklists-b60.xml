@@ -7,8 +7,8 @@
         <checklist>
             <title>Config</title>
             <item>
-                <name>Fuel and Payload</name>
-                <value>Load stores and fuel as needed</value>
+                <name>דלק ומטען</name>
+                <value>טען מטען ודלק לפי הצורך</value>
             </item>
             <item>
                 <name>MP discharge messages</name>
