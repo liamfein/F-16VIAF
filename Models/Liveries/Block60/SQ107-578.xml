@@ -4,8 +4,8 @@
     <sim>
         <model> 
             <livery>
-                <name type="string">The Orange Tail Knights Squadron</name>
-                <texture type="string">Liveries/Block60/SQ107.png</texture>
+                <name type="string">The Orange Tail Knights Squadron #578</name>
+                <texture type="string">Liveries/Block60/SQ107-578.png</texture>
                 <owner type="string">IAF</owner>
                 <pilot type="string"></pilot>
                 <scheme type="string">Desert camo</scheme>
